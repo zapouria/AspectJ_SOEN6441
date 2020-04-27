@@ -1,1 +1,1 @@
-# AspectJ_SOEN6441
+Some AspectJ test scenarios and project from SOEN 6441
